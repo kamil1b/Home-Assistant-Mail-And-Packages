@@ -308,7 +308,7 @@ SENSOR_DATA = {
             "KurierDPD10@dpd.com.pl",
             "powiadomienia@allegromail.pl",
         ],
-        "subject": ["została doręczona"],
+        "subject": ["została doręczona", "doręczone!"],
     },
     "dpd_com_pl_delivering": {
         "email": [
